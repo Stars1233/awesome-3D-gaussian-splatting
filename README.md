@@ -141,6 +141,7 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 - [VGGT Factor Refinement](https://github.com/jashshah999/vggt-factor-refinement) - COLMAP-free pipeline using VGGT + factor graph, from video to COLMAP-format output
 - [splatreg](https://github.com/Archerkattri/splatreg) - pip-installable splat registration: align & merge two 3DGS scans into one SE(3)/Sim(3) frame (recovers scale), CLI + pure-PyTorch API, no manual gizmo
 - [AURA](https://github.com/Archerkattri/aura) - Calibrated per-splat confidence for 3DGS assets: held-out reliability labels, isotonic calibration, and a distribution-free conformal pruning certificate with a certified LOD ladder; exports via glTF/OpenUSD/SPZ (pip install aura-splat)
+- [Open Reality](https://github.com/reality-opened/openreality) - Phone video to a 3D scene (VGGT-SLAM based, splat export with optional gsplat refinement) that an AI assistant can query over MCP: measurements, floor and wall planes, path planning, object list, robot-training exports; self-hostable
 
 ### Development Tools
 
