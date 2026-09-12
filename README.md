@@ -58,6 +58,7 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 | [2D Gaussian Splatting](https://github.com/OutofAi/2D-Gaussian-Splatting) | Jupyter | MIT | Notebook walkthrough of 2D gaussian splatting |
 | [DGSO](https://github.com/An-u-rag/stylized-gaussian-splatting) | Python | MIT | Style transfer applied during gaussian optimization |
 | [3D-Gaussian-Splatting-Reconstruction](https://github.com/Chi-Blaze-B/3D-Gaussian-Splatting-Reconstruction) | Python | Apache-2.0 | Pure PyTorch implementation from video input — no CUDA compilation required, supports CPU/NVIDIA GPU backends, built-in pose estimator & GUI |
+| [MetalSplat](https://github.com/tchauffi/metalsplat) | PyTorch/Metal | MIT | Metal-based implementation for Apple Silicon GPUs on PyTorch with automatic kernel compilation at runtime |
 
 ### Frameworks
 
